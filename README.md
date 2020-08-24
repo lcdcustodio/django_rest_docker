@@ -1,1 +1,1 @@
-# django_rest_docker
+# django_rest_docker v2
